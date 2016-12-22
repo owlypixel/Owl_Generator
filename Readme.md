@@ -1,5 +1,9 @@
+## Owl Generator
+[![owl generator screenshot](https://raw.github.com/owlypixel/Owl_Generator/raw/master/images/screenshot.png)]
+
 ## What is this?
 This project's purpose is to practice manipulating SVG elements using JavaScript and JQuery.
+You can play around and experiment with it [here](http://codepen.io/owlypixel/pen/YGopop) on CodePen. 
 ## What you'll learn from this
 ### JS
 - Cloning DOM elements using regular JavaScript
@@ -11,6 +15,7 @@ This project's purpose is to practice manipulating SVG elements using JavaScript
 - Creating 2 cool looking buttons in CSS
 - Road-sign style border animation
 - Creating cool linear gradient for the body
+
 
 ## Copyright & License
 
