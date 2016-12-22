@@ -1,5 +1,5 @@
 ## Owl Generator
-[owl generator screenshot](https://github.com/owlypixel/Owl_Generator/raw/master/images/screenshot.png)
+![owl generator screenshot](https://github.com/owlypixel/Owl_Generator/raw/master/images/screenshot.png)
 
 ## What is this?
 This project's purpose is to practice manipulating SVG elements using JavaScript and JQuery.
