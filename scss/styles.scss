@@ -205,6 +205,14 @@ svg {
 .st10 {
 	fill: #482D2C;
 }
+
+// =======fill-box-fix---
+
+.Eye1, .Eye2, .Wing_Left, .Wing_Right, .Left_Leg, .Right_Leg, .pupil, .rear, .lear, .lflitter, .rflitter, .rleg, .lleg {
+  transform-box: fill-box;
+}   
+
+
 @keyframes blink {
 	40% {
 		transform: scaleY(1);
